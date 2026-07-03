@@ -1,6 +1,6 @@
 # SAP ABAP Portfolio – Hotel Management Projects
 
-**Author:** Hugo O. M. P.  
+**Author:** Hugo Mayorga  
 **Certification:** SAP Certified Associate – Back-End Developer (ABAP Cloud)  
 **Environment:** SAP BTP ABAP Environment (Trial) | Eclipse ADT  
 
