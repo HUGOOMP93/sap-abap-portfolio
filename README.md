@@ -46,7 +46,7 @@ In a hotel, every department (kitchen, restaurant, housekeeping, maintenance) ge
 
 ---
 
-## Project 2 – Goods Receipt & Stock Management (MM / Classic ABAP)
+
 ## Project 2 – Goods Receipt & Stock Management (MM / RAP)
 
 ### Business Context
